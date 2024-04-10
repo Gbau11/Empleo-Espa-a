@@ -6,6 +6,26 @@ __pycache__/
 # C extensions
 *.so
 
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+/.idea
+*.idea
+*.xml
+**/*.xml
+*.iml
+*.weights
+*.log
+/*.log
+selenium/
+*.csv
+*.xlsx
+
+contraseñas.txt
+pass_.py
+password.txt
+password.py
+
 # Distribution / packaging
 .Python
 build/
